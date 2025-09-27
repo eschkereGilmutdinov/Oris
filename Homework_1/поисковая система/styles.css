@@ -1,0 +1,284 @@
+@media (max-width: 768px) {
+    ul li:nth-child(n+6) {
+        display: none;
+    }
+
+    .weather {
+        top: 10px;
+        right: 10px;
+    }
+
+    .temperature {
+        font-size: 8vw;
+    }
+
+    .city {
+        font-size: 5vw;
+    }
+
+    .watch {
+        font-size: 10vw;
+    }
+
+    .good {
+        font-size: 6vw;
+    }
+
+    .searchbox {
+        width: 90%;
+    }
+
+    .tools {
+        flex-direction: column;
+        gap: 1.5vw;
+    }
+
+    ul {
+        gap: 1.5vw;
+    }
+
+    li {
+        width: 20vw;
+        height: 20vw;
+    }
+}
+
+@media (max-width: 480px) {
+    ul li:nth-child(n+6) {
+        display: none;
+    }
+
+    .weather {
+        top: 5px;
+        right: 5px;
+    }
+
+    .temperature {
+        font-size: 10vw;
+    }
+
+    .city {
+        font-size: 6vw;
+    }
+
+    .watch {
+        font-size: 12vw;
+    }
+
+    .good {
+        font-size: 7vw;
+    }
+
+    .searchbox {
+        width: 95%;
+    }
+
+    .tools {
+        flex-direction: column;
+        gap: 2vw;
+    }
+
+    ul {
+        gap: 2vw;
+    }
+
+    li {
+        width: 25vw;
+        height: 25vw;
+    }
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1728;
+    height: 1117;
+    opacity: 1;
+}
+
+.weather {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 0;
+    position: fixed;
+    right: 20px;
+}
+
+.temperature {
+    width: 44px;
+    height: 43px;
+    font-family: 'Afacad';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 43px;
+    text-align: center;
+    color: #212121;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.city {
+    width: 98px;
+    height: 27px;
+    font-family: 'Afacad';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #6E6CDF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 9.28px;
+    width: 1715.94px;
+    height: 156.28px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 55.65px;
+    position: absolute;
+    width: 1715.94px;
+    height: 397.68px;
+    left: calc(50% - 1715.94px/2 - 0.03px);
+    top: calc(50% - 397.68px/2 + 0.3px);
+}
+
+.watch {
+    width: 281px;
+    height: 99px;
+    font-family: 'Afacad';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 74px;
+    line-height: 99px;
+    text-align: center;
+    color: #212121;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.good {
+    width: 296px;
+    height: 48px;
+    font-family: 'Afacad';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #6E6CDF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.tools-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 55.65px;
+    width: 621.45px;
+    height: 185.75px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.searchbox {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 18.5507px 27.8261px;
+    gap: 9.28px;
+    width: 621.45px;
+    height: 65.1px;
+    background: #FAFAFA;
+    border: 1.15942px solid #EEEEEE;
+    border-radius: 18.5507px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.image-loop {
+    width: 28px;
+    height: 28px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.search-text {
+    width: 72px;
+    height: 28px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    letter-spacing: 0.231884px;
+    color: #9E9E9E;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.tools {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 0px;
+    gap: 0px 27.8261px;
+    width: 621.96px;
+    height: 65px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+ul {
+    display: flex;
+    width: 622;
+    height: 65;
+    gap: 27.83px;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 65px;
+    height: 65px;
+    border-radius: 18.57px;
+    border-width: 1.16px;
+    color: #FAFAFA;
+    border: 1.16px solid #EEEEEE;
+}
