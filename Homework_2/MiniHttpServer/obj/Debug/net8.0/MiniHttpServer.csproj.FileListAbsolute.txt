@@ -1,0 +1,16 @@
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\bin\Debug\net8.0\MiniHttpServer.exe
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\bin\Debug\net8.0\MiniHttpServer.deps.json
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\bin\Debug\net8.0\MiniHttpServer.runtimeconfig.json
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\bin\Debug\net8.0\MiniHttpServer.dll
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\bin\Debug\net8.0\MiniHttpServer.pdb
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\MiniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\MiniHttpServer.AssemblyInfoInputs.cache
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\MiniHttpServer.AssemblyInfo.cs
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\MiniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\MiniHttpServer.dll
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\refint\MiniHttpServer.dll
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\MiniHttpServer.pdb
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\MiniHttpServer.genruntimeconfig.cache
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\obj\Debug\net8.0\ref\MiniHttpServer.dll
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\bin\Debug\net8.0\static\index.html
+C:\Users\teffy\source\repos\MiniHttpServer\MiniHttpServer\bin\Debug\net8.0\settings.json
