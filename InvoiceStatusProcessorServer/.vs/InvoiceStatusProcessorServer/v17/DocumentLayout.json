@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\invoiseprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\invoiseprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\invoicestatusprocessorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\invoicestatusprocessorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|c:\\users\\teffy\\source\\repos\\invoicestatusprocessorserver\\invoicestatusprocessorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E729E-83E1-4E19-B824-527D83A21ECB}|InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj|solutionrelative:invoicestatusprocessorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceStatusProcessorServer",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-13T08:45:48.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiseProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\InvoiseProcessor.cs",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\InvoiseProcessor.cs",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\InvoiseProcessor.cs",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\InvoiseProcessor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:23:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\config.json",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\config.json",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\config.json",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T08:12:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\InvoiceRepository.cs",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\InvoiceRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:10:25.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\HttpServer.cs",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\HttpServer.cs",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\HttpServer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwJAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:07:01.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\ConfigurationManager.cs",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\ConfigurationManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:04:48.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\Invoice.cs",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\Invoice.cs",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\Invoice.cs",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:02:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\Program.cs",
+              "RelativeDocumentMoniker": "InvoiceStatusProcessorServer\\Program.cs",
+              "ToolTip": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\Program.cs",
+              "RelativeToolTip": "InvoiceStatusProcessorServer\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:58:47.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

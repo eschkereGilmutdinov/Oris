@@ -1,0 +1,5 @@
+{
+  "ProcessingIntervalSeconds": 300,
+  "MaxErrorRetries": 5,
+  "ConnectionString": "Host=localhost;Port=5432;Database=InvoiceDB;Username=postgres;Password=vjkjrj557"
+}

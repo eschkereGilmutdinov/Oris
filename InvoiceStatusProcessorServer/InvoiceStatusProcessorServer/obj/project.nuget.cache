@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CDS8q2fm6IY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teffy\\source\\repos\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer\\InvoiceStatusProcessorServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teffy\\.nuget\\packages\\jbi.unitofwork\\1.0.3\\jbi.unitofwork.1.0.3.nupkg.sha512",
+    "C:\\Users\\teffy\\.nuget\\packages\\jbi.unitofwork.abstractions\\1.0.3\\jbi.unitofwork.abstractions.1.0.3.nupkg.sha512",
+    "C:\\Users\\teffy\\.nuget\\packages\\jbi.unitofwork.npqsql\\1.0.3\\jbi.unitofwork.npqsql.1.0.3.nupkg.sha512",
+    "C:\\Users\\teffy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\teffy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\teffy\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,129 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InvoiceStatusProcessorServer/1.0.0": {
+        "dependencies": {
+          "Jbi.UnitOfWork.Npqsql": "1.0.3"
+        },
+        "runtime": {
+          "InvoiceStatusProcessorServer.dll": {}
+        }
+      },
+      "Jbi.UnitOfWork/1.0.3": {
+        "dependencies": {
+          "Jbi.UnitOfWork.Abstractions": "1.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/Jbi.UnitOfWork.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "Jbi.UnitOfWork.Abstractions/1.0.3": {
+        "runtime": {
+          "lib/net8.0/Jbi.UnitOfWork.Abstractions.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "Jbi.UnitOfWork.Npqsql/1.0.3": {
+        "dependencies": {
+          "Jbi.UnitOfWork": "1.0.3",
+          "Npgsql": "8.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/Jbi.UnitOfWork.Npqsql.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Npgsql/8.0.3": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Npgsql.dll": {
+            "assemblyVersion": "8.0.3.0",
+            "fileVersion": "8.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvoiceStatusProcessorServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jbi.UnitOfWork/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Aq+tCqOnbVuTHnLcPCx8AXUnQsjRsvvlF7rjNC+bH0Rzroc3V1g1ZAXAGXbn6Y2Zs7rNl7R3F+lVh5WB/gzMqw==",
+      "path": "jbi.unitofwork/1.0.3",
+      "hashPath": "jbi.unitofwork.1.0.3.nupkg.sha512"
+    },
+    "Jbi.UnitOfWork.Abstractions/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J3BvcVMc9vtchaosLG2+FvY57EHsct979hDhpLj9SyQQCIoKKaGAsaiqKvMX2RF2SptMtE0DB2zb7+VRXV64yw==",
+      "path": "jbi.unitofwork.abstractions/1.0.3",
+      "hashPath": "jbi.unitofwork.abstractions.1.0.3.nupkg.sha512"
+    },
+    "Jbi.UnitOfWork.Npqsql/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o8F0YHoU6+leRgfNjuHS/jbnS+vqo4yDPPz8ARred9jY1J/hFRLUiRJSrC+roZjPJ8qKDO5OHO4Eq5iD47h1AQ==",
+      "path": "jbi.unitofwork.npqsql/1.0.3",
+      "hashPath": "jbi.unitofwork.npqsql.1.0.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-arDBqTgFCyS0EvRV7O3MZturChstm50OJ0y9bDJvAcmEPJm0FFpFyjU/JLYyStNGGey081DvnQYlncNX5SJJGA==",
+      "path": "microsoft.extensions.logging.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+    },
+    "Npgsql/8.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6WEmzsQJCZAlUG1pThKg/RmeF6V+I0DmBBBE/8YzpRtEzhyZzKcK7ulMANDm5CkxrALBEC8H+5plxHWtIL7xnA==",
+      "path": "npgsql/8.0.3",
+      "hashPath": "npgsql.8.0.3.nupkg.sha512"
+    }
+  }
+}
